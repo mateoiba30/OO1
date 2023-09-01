@@ -1,0 +1,29 @@
+package ar.edu.unlp.info.oo1.ejercicio2;
+
+public class Balanza {
+	
+	private int cantidadDeProductos;
+	private float precioTotal;
+	private float pesoTotal;
+	
+	public void ponerEnCero() {
+		this.cantidadDeProductos = 0;
+		this.precioTotal = 0;
+		this.pesoTotal = 0; //estos valores no son los por default si hago un constructor?
+	}
+
+	public void agregarProducto (Producto producto) {
+		this.cantidadDeProductos ++;
+		this.precioTotal += producto.getPrecio();
+		this.pesoTotal += producto.getPeso(); // hay una forma donde no la necesite?
+	}
+	
+	public Ticket emitirTicket() {
+		Ticket ticket = new Ticket();
+		ticket.setFecha();
+		ticket.setCantidadDeProductos(this.cantidadDeProductos);
+		ticket.setPrecioTotal(this.precioTotal); //incluye el impuesto el ticket, no la balanza (ella solo dice el precio por producto)
+		ticket.setPesoTotal(this.pesoTotal);	
+		
+	}
+}
