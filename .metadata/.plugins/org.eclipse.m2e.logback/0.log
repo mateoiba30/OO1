@@ -716,3 +716,454 @@ Caused by: java.lang.Exception: File not found: C:\Users\Mateo\Documents\Auni\20
 2023-09-01 10:41:08,656 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\src\main\resources
 2023-09-01 10:41:08,657 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-09-01 10:41:08,658 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\src\test\resources
+2023-09-06 13:40:41,849 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-09-06 13:40:44,655 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-06 13:40:44,656 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\src\main\resources
+2023-09-06 13:40:44,662 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-06 13:40:44,663 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\src\test\resources
+2023-09-06 13:41:52,088 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\pom.xml.
+2023-09-06 13:41:52,525 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cookbookV2/src/main/java
+2023-09-06 13:41:52,535 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cookbookV2/src/test/java
+2023-09-06 13:41:52,537 [Worker-11: Importing Maven projects] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-06 13:41:52,732 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-09-06 13:41:53,965 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-06 13:41:53,966 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\src\main\resources
+2023-09-06 13:41:53,970 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-06 13:41:53,970 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\src\test\resources
+2023-09-08 08:06:51,258 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-09-08 08:08:20,347 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+2023-09-08 08:08:37,374 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [271])
+2023-09-08 08:08:37,401 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-09-08 08:08:37,403 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-09-08 08:08:37,405 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-09-08 08:08:37,406 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-09-08 08:08:37,408 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-09-08 08:08:37,411 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-09-08 08:08:37,412 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-09-08 08:08:37,413 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-09-08 08:08:37,415 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-09-08 08:08:37,416 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-09-08 08:08:37,417 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-09-08 08:08:37,418 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-09-08 08:08:37,420 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-09-08 08:08:37,421 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-09-08 08:08:37,423 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-09-08 08:08:37,425 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-09-08 08:08:37,427 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-09-08 08:08:37,428 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-09-08 08:08:37,430 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-09-08 08:08:37,431 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-09-08 08:08:37,433 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-09-08 08:08:37,435 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-09-08 08:08:37,436 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-09-08 08:08:37,438 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-09-08 08:08:37,439 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-09-08 08:08:37,440 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-09-08 08:08:37,441 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-09-08 08:08:37,444 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-09-08 08:08:37,445 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-09-08 08:08:37,447 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-09-08 08:08:37,449 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-09-08 08:08:37,450 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-09-08 08:08:37,452 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-09-08 08:08:37,453 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-09-08 08:08:37,455 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-09-08 08:08:37,456 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-09-08 08:08:37,458 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-09-08 08:08:37,465 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-09-08 08:08:37,468 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-09-08 08:08:37,469 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [439])
+2023-09-08 08:08:37,471 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-09-08 08:08:37,471 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-09-08 08:08:37,476 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-09-08 08:08:37,477 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-09-08 08:08:37,484 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-09-08 08:08:37,484 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-09-08 08:08:37,487 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-09-08 08:08:37,488 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-09-08 08:08:37,492 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-09-08 08:08:37,553 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mateo\AppData\Local\Temp\m2e-archetypeGenerator5871519360525798124":
+2023-09-08 08:08:37,564 [Worker-8: Launching mavenrun-f9865a5d-2656-45c5-ba23-67ef5e4fa043] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=ar.edu.unlp.info.oo1 -DarchetypeArtifactId=objetos-uno -DarchetypeVersion=1.0.0 -DgroupId=ar.edu.unlp.info.oo1 -DartifactId=presupuesto -Dversion=0.0.1-SNAPSHOT -Dpackage=ar.edu.unlp.info.oo1.presupuesto -DoutputDirectory="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1" -Dstyle.color=always -U archetype:generate
+2023-09-08 08:09:06,752 [Worker-21: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\pom.xml
+2023-09-08 08:09:08,387 [Worker-21: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:presupuesto:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\pom.xml.
+2023-09-08 08:09:09,998 [Worker-21: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /presupuesto/src/main/java
+2023-09-08 08:09:10,002 [Worker-21: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /presupuesto/src/test/java
+2023-09-08 08:09:10,004 [Worker-21: Creating objetos-uno] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 08:09:10,238 [Worker-21: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-09-08 08:09:11,614 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:09:11,616 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:09:11,626 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:09:11,627 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:09:48,477 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:09:48,479 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:09:48,484 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:09:48,485 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:09:53,669 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:09:53,671 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:09:53,680 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:09:53,680 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:13:25,606 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:13:25,607 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:13:25,618 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:13:25,618 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:13:54,408 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:13:54,409 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:13:54,416 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:13:54,416 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:15:27,130 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:15:27,131 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:15:27,139 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:15:27,139 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:15:30,035 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:15:30,036 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\main\resources
+2023-09-08 08:15:30,041 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:15:30,041 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\src\test\resources
+2023-09-08 08:16:58,780 [Worker-8: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - File not found: C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\pom.xml.
+org.eclipse.core.internal.resources.ResourceException: File not found: C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\pom.xml.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:268)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:583)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:485)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:362)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:314)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.Exception: File not found: C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\presupuesto\pom.xml.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 27 common frames omitted
+2023-09-08 08:17:21,933 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:presupuesto:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\pom.xml.
+2023-09-08 08:17:22,684 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio3Presupuesto/src/main/java
+2023-09-08 08:17:22,697 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio3Presupuesto/src/test/java
+2023-09-08 08:17:22,698 [Worker-25: Importing Maven projects] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 08:17:22,942 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-09-08 08:17:23,268 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:17:23,268 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:17:23,275 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:17:23,276 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:18:03,851 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:18:03,852 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:18:03,859 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:18:03,859 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:18:09,408 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:18:09,409 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:18:09,416 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:18:09,416 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:18:43,044 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:18:43,045 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:18:43,052 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:18:43,052 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:35:44,077 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:35:44,078 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:35:44,083 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:35:44,083 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:37:26,542 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:37:26,543 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:37:26,548 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:37:26,549 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:45:08,535 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:45:08,536 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:45:08,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:45:08,542 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:47:14,555 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:47:14,557 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:47:14,563 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:47:14,563 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:47:51,305 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:47:51,306 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:47:51,313 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:47:51,313 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:49:16,670 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:49:16,671 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:49:16,676 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:49:16,677 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:51:05,708 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:51:05,709 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:51:05,714 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:51:05,715 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 08:51:19,800 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:51:19,801 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 08:51:19,805 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 08:51:19,805 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:01:36,409 [Worker-43: Launching Executing clean in C__Users_Mateo_Documents_Auni_2023_cuatri 2_OO1_ejercicio1WallPost] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost":
+2023-09-08 09:01:36,410 [Worker-43: Launching Executing clean in C__Users_Mateo_Documents_Auni_2023_cuatri 2_OO1_ejercicio1WallPost] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-09-08 09:03:24,807 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:24,808 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 09:03:24,813 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:24,813 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:03:52,980 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-08 09:03:53,998 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\pom.xml.
+2023-09-08 09:03:54,159 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.oo1:ejercicio1-wallpost:1.0.0 @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\pom.xml.
+2023-09-08 09:03:54,257 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.oo1:ejercicio1-wallpost:1.0.0 @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\pom.xml.
+2023-09-08 09:03:54,346 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:presupuesto:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\pom.xml.
+2023-09-08 09:03:55,402 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cookbookV2/src/main/java
+2023-09-08 09:03:55,404 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cookbookV2/src/test/java
+2023-09-08 09:03:55,404 [Worker-40: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 09:03:55,514 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio1WallPost/src/main/java
+2023-09-08 09:03:55,515 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio1WallPost/src/test/java
+2023-09-08 09:03:55,515 [Worker-40: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 09:03:55,654 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio2Balanzaa/src/main/java
+2023-09-08 09:03:55,669 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio2Balanzaa/src/test/java
+2023-09-08 09:03:55,669 [Worker-40: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 09:03:55,811 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio3Presupuesto/src/main/java
+2023-09-08 09:03:55,812 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio3Presupuesto/src/test/java
+2023-09-08 09:03:55,813 [Worker-40: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 09:03:56,234 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 0,00 sec 
+2023-09-08 09:03:56,709 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:56,710 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\src\main\resources
+2023-09-08 09:03:56,715 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:56,716 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\src\test\resources
+2023-09-08 09:03:57,460 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:57,461 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\src\main\resources
+2023-09-08 09:03:57,467 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:57,467 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\src\test\resources
+2023-09-08 09:03:57,745 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:57,746 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\src\main\resources
+2023-09-08 09:03:57,750 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:57,751 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\src\test\resources
+2023-09-08 09:03:57,974 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:57,975 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 09:03:57,979 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:03:57,980 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:08:34,071 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:08:34,073 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 09:08:34,078 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:08:34,078 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:11:29,461 [Worker-56: Launching ItemTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:11:29,462 [Worker-56: Launching ItemTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 09:11:29,470 [Worker-56: Launching ItemTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:11:29,471 [Worker-56: Launching ItemTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:12:11,031 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:12:11,032 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 09:12:11,037 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:12:11,038 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:13:00,466 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:13:00,466 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-09-08 09:13:00,473 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:13:00,473 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-09-08 09:15:37,423 [Worker-56: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.oo1:ejercicio1-wallpost:1.0.0 @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\pom.xml.
+2023-09-08 09:15:37,635 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio3BisBalanzaMejorada/src/main/java
+2023-09-08 09:15:37,646 [Worker-56: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio3BisBalanzaMejorada/src/test/java
+2023-09-08 09:15:37,646 [Worker-56: Importing Maven projects] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 09:15:37,802 [Worker-56: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-09-08 09:15:38,519 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:15:38,520 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:15:38,526 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:15:38,527 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:18:39,765 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:18:39,767 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:18:39,772 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:18:39,772 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:21:37,105 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:21:37,106 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:21:37,110 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:21:37,110 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:24:19,793 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:24:19,794 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:24:19,800 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:24:19,800 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:24:49,133 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:24:49,134 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:24:49,139 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:24:49,140 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:25:42,122 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:25:42,123 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:25:42,128 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:25:42,129 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:27:42,715 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:27:42,716 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:27:42,720 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:27:42,721 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:30:05,327 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:30:05,328 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:30:05,332 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:30:05,333 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:30:24,001 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:30:24,002 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:30:24,006 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:30:24,006 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:35:53,363 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:35:53,364 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:35:53,368 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:35:53,368 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:37:38,749 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:37:38,750 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:37:38,754 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:37:38,755 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:40:28,065 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:40:28,066 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:40:28,071 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:40:28,072 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:40:57,224 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:40:57,225 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:40:57,229 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:40:57,230 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:41:03,840 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:41:03,841 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-09-08 09:41:03,846 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:41:03,846 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-09-08 09:44:00,838 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+2023-09-08 09:44:13,522 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+2023-09-08 09:44:39,857 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+2023-09-08 09:45:06,145 [Worker-61: Launching mavenrun-9e3d55a2-9f0c-4d98-84d0-3c8de74f5377] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mateo\AppData\Local\Temp\m2e-archetypeGenerator6613439813049998051":
+2023-09-08 09:45:06,146 [Worker-61: Launching mavenrun-9e3d55a2-9f0c-4d98-84d0-3c8de74f5377] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=ar.edu.unlp.info.oo1 -DarchetypeArtifactId=objetos-uno -DarchetypeVersion=1.0.0 -DgroupId=ar.edu.unlp.info.oo1 -DartifactId=figurasycuerpos -Dversion=0.0.1-SNAPSHOT -Dpackage=ar.edu.unlp.info.oo1.figurasycuerpos -DoutputDirectory="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1" -Dstyle.color=always -U archetype:generate
+2023-09-08 09:46:28,570 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+2023-09-08 09:46:47,558 [Worker-70: Launching mavenrun-10e9ddf5-fe57-43f0-9484-3d263d7a9460] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mateo\AppData\Local\Temp\m2e-archetypeGenerator16160951898445592001":
+2023-09-08 09:46:47,559 [Worker-70: Launching mavenrun-10e9ddf5-fe57-43f0-9484-3d263d7a9460] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=ar.edu.unlp.info.oo1 -DarchetypeArtifactId=objetos-uno -DarchetypeVersion=1.0.0 -DgroupId=ar.edu.unlp.info.oo1 -DartifactId=figurasycuerpos -Dversion=0.0.1-SNAPSHOT -Dpackage=ar.edu.unlp.info.oo1.figurasycuerpos -DoutputDirectory="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1" -Dstyle.color=always -U archetype:generate
+2023-09-08 09:47:57,568 [Worker-71: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\pom.xml
+2023-09-08 09:47:57,747 [Worker-71: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:figurasycuerpos:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\pom.xml.
+2023-09-08 09:47:57,949 [Worker-71: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /figurasycuerpos/src/main/java
+2023-09-08 09:47:57,950 [Worker-71: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /figurasycuerpos/src/test/java
+2023-09-08 09:47:57,951 [Worker-71: Creating objetos-uno] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-09-08 09:47:58,031 [Worker-71: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-09-08 09:47:58,480 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:47:58,480 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:47:58,484 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:47:58,485 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:48:23,046 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:23,047 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:48:23,051 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:23,052 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:48:27,272 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:27,273 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:48:27,277 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:27,278 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:48:47,814 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:47,814 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:48:47,818 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:47,819 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:48:55,108 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:55,109 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:48:55,113 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:48:55,114 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:49:03,142 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:49:03,143 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:49:03,146 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:49:03,147 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:49:36,950 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:49:36,951 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:49:36,955 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:49:36,956 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:49:44,449 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:49:44,449 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:49:44,453 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:49:44,454 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:50:00,450 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:50:00,451 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:50:00,455 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:50:00,456 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:50:35,994 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:50:35,995 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:50:36,001 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:50:36,002 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:50:57,344 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:50:57,345 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:50:57,351 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:50:57,352 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:55:19,294 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:55:19,295 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:55:19,327 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:55:19,328 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 09:56:18,229 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:56:18,230 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 09:56:18,233 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 09:56:18,234 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 10:00:30,131 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:00:30,132 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 10:00:30,136 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:00:30,137 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 10:50:18,585 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:50:18,586 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 10:50:18,592 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:50:18,594 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 10:50:20,744 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:50:20,745 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 10:50:20,748 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:50:20,749 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 10:50:43,427 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:50:43,428 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 10:50:43,431 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:50:43,432 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 10:52:39,532 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:52:39,533 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 10:52:39,538 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:52:39,539 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 10:55:28,792 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:55:28,793 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 10:55:28,796 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 10:55:28,797 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:00:24,352 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:00:24,353 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:00:24,357 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:00:24,357 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:01:07,438 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:01:07,439 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:01:07,442 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:01:07,444 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:01:41,096 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:01:41,097 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:01:41,103 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:01:41,104 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:02:37,968 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:02:37,969 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:02:37,973 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:02:37,974 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:05:01,578 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:05:01,579 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:05:01,582 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:05:01,583 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:07:45,354 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:07:45,356 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:07:45,362 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:07:45,362 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:11:10,416 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:10,417 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:11:10,421 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:10,422 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:11:17,263 [Worker-77: Launching TestCirculo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:17,264 [Worker-77: Launching TestCirculo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:11:17,268 [Worker-77: Launching TestCirculo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:17,269 [Worker-77: Launching TestCirculo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:11:36,924 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:36,925 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:11:36,928 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:36,929 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:11:43,959 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:43,960 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:11:43,963 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:11:43,964 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:14:34,140 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:14:34,140 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:14:34,144 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:14:34,145 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:16:41,216 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:16:41,217 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:16:41,221 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:16:41,222 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:17:21,324 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:17:21,325 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:17:21,329 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:17:21,330 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-09-08 11:18:01,805 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:18:01,805 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-09-08 11:18:01,809 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-08 11:18:01,810 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources

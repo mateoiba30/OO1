@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada"/>
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto"/>
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio-otro"/>
@@ -20,6 +23,8 @@
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1"/>
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto"/>
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio4FIgurasYCuerpos"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2-Balanza"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio- Wallpost"/>
 		</list>
@@ -45,16 +50,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="ar.edu.unlp.info.oo1.ejercicio2"/>
-			<item value="ar.edu.unlp.info.erintentoEj2"/>
+			<item value="ar.edu.unlp.info.oo1.figurasycuerpos"/>
 		</list>
 		<list key="groupId">
 			<item value="ar.edu.unlp.info.oo1"/>
-			<item value="ar.edu.unlp.info"/>
 		</list>
 		<list key="artifactId">
-			<item value="ejercicio2"/>
-			<item value="3erintentoEj2"/>
+			<item value="figurasycuerpos"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
