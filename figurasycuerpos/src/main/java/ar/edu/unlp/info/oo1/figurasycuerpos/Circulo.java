@@ -3,8 +3,8 @@ package ar.edu.unlp.info.oo1.figurasycuerpos;
 public class Circulo implements Figura{
 
 	private double radio;//como todo depende del radio, solo me quedo con este -> ESTÁ BIEN? porque necesita menos varibales pero pierde presicion
-	private double pi = Math.PI;
-	
+//	private double pi = Math.PI;
+//	Math.PI es una clase estática, no hace falta crear la variable pi
 	
 	public Circulo() {
 		this.radio=0;
@@ -22,16 +22,16 @@ public class Circulo implements Figura{
 		this.radio = radio;
 	}
 	public double getArea() {
-		return pi*this.radio*this.radio;
+		return Math.PI*this.radio*this.radio;
 	}
 	public void setArea(double area) {
-		this.radio = Math.sqrt(area/pi);//no necesario invocar ninguna librería
+		this.radio = Math.sqrt(area/Math.PI);//no necesario invocar ninguna librería
 	}
 	public double getPerimetro() {
-		return pi*radio*2;
+		return Math.PI*radio*2;
 	}
 	public void setPerimetro(double perimetro) {
-		this.radio = perimetro/(pi*2);
+		this.radio = perimetro/(Math.PI*2);
 	}
 
 	

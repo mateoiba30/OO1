@@ -22,6 +22,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio4FIgurasYCuerpos"/>
@@ -50,12 +51,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ej7MethodLookUp"/>
+			<item value="ar.edu.unlp.info.oo1.ej6RedAlumbrado"/>
+			<item value="ar.edu.unlp.info.oo1.ej5genealogia"/>
 			<item value="ar.edu.unlp.info.oo1.figurasycuerpos"/>
 		</list>
 		<list key="groupId">
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ej7MethodLookUp"/>
+			<item value="ej6RedAlumbrado"/>
+			<item value="ej5genealogia"/>
 			<item value="figurasycuerpos"/>
 		</list>
 		<list key="projectNameTemplate">

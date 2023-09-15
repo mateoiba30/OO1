@@ -1,6 +1,6 @@
 package ar.edu.unlp.info.oo1.figurasycuerpos;
 
-public class Cuerpo3D{
+public class Cuerpo3D{ //no poner ningun extends ni nada
 	
 	private Figura caraBasal;
 	private double altura;

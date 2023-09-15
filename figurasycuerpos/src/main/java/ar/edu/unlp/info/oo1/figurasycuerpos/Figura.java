@@ -1,4 +1,6 @@
 package ar.edu.unlp.info.oo1.figurasycuerpos;
+//conviene interfaz porque uso VI diferentes en circulo y cuadrado, y además no hay métodos con el mismo desarrollo
+//1ro pensar como clase abstracta, si me quedo sin atributos ni VI me paso a interfaz ( la inversa es mas complicada)
 
 public interface Figura {
 	
