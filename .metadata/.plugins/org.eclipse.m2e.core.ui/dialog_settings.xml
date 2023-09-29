@@ -53,10 +53,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ej11Inversiones"/>
 		</list>
 		<list key="groupId">
+			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ej11Inversiones"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

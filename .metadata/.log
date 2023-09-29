@@ -2549,3 +2549,168 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-22 09:59:12.172
 !MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+!SESSION 2023-09-29 08:06:20.735 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=20.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-29 08:06:24.630
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-29 08:08:11.072
+!MESSAGE Logback config file: C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-29 08:08:16.943
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-29 08:08:16.943
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-29 08:08:16.943
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-29 08:08:26.071
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Mateo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:40.424
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:40.690
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:40.872
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:41.113
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:41.289
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:41.463
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:41.642
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:41.799
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:41.944
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:42.212
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:42.385
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:15:42.525
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-09-29 08:17:34.541
+!MESSAGE The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-09-29 08:17:57.132
+!MESSAGE The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-09-29 08:18:16.468
+!MESSAGE The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-09-29 08:19:12.742
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.jface 4 2 2023-09-29 08:51:42.360
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jface".
+!STACK 0
+java.lang.ClassCastException: class org.eclipse.core.internal.resources.File cannot be cast to class org.eclipse.core.resources.IProject (org.eclipse.core.internal.resources.File and org.eclipse.core.resources.IProject are in unnamed module of loader org.eclipse.osgi.internal.loader.EquinoxClassLoader @78cd163b)
+	at org.eclipse.m2e.apt.ui.preferences.xpl.PropertyAndPreferencePage.setElement(PropertyAndPreferencePage.java:305)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.createPage(RegistryPageContributor.java:145)
+	at org.eclipse.ui.internal.dialogs.PropertyPageNode.createPage(PropertyPageNode.java:60)
+	at org.eclipse.jface.preference.PreferenceDialog.createPage(PreferenceDialog.java:1281)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.createPage(FilteredPreferenceDialog.java:338)
+	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1167)
+	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:630)
+	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:661)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:658)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:821)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:818)
+	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1191)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:284)
+	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:438)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4029)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:155)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4256)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4054)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3642)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
