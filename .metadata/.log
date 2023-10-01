@@ -2818,3 +2818,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2023-10-01 16:00:19.748
 !MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-10-01 17:05:51.027
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
