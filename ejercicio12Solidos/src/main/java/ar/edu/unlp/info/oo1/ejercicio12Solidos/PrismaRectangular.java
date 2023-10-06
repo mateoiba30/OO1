@@ -7,8 +7,7 @@ public class PrismaRectangular extends Pieza{
 	private int altura;
 	
 	public PrismaRectangular(String material, String color, int ladoMayor, int ladoMenor,int altura) {
-		this.material=material;
-		this.color=color;
+		super(material, color);
 		this.ladoMayor = ladoMayor;
 		this.ladoMenor = ladoMenor;
 		this.altura = altura;

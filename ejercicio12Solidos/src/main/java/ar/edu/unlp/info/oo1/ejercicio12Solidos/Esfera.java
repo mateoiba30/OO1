@@ -5,8 +5,7 @@ public class Esfera extends Pieza {
 	private double radio;
 	
 	public Esfera(String material, String color, double radio) {
-		this.material=material;
-		this.color=color;
+		super(material, color);//esto es como llamar al constructor de la clase padre
 		this.radio=radio;
 	}
 	

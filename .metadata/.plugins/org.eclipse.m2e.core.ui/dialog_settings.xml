@@ -22,6 +22,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej11Inversiones"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio10JobScheduler\src\main\java\ar\edu\unlp\info\oo1\ejercicio10JobScheduler"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej7MethodLookUp"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos"/>
@@ -53,12 +54,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ejercicio13Correo"/>
+			<item value="ar.edu.unlp.info.oo1.ejercicio12Solidos"/>
 			<item value="ar.edu.unlp.info.oo1.ej11Inversiones"/>
 		</list>
 		<list key="groupId">
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ejercicio13Correo"/>
+			<item value="ejercicio12Solidos"/>
 			<item value="ej11Inversiones"/>
 		</list>
 		<list key="projectNameTemplate">
