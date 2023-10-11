@@ -9,4 +9,8 @@ public interface DateLapse {
 	public LocalDate getTo();
 	public int sizeInDays() ;
 	public boolean includesDate(LocalDate other);
+	public boolean overlaps(DateLapse other);
+	public int daysOverLaps(DateLapse other);
+	public void setFrom(LocalDate from);
+//	public void setTo(LocalDate to);
 }
