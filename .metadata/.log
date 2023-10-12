@@ -3630,3 +3630,14 @@ java.lang.IllegalStateException: Disconnected before saving. Please post stacktr
 		at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4029)
 		at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
 		... 20 more
+
+!ENTRY org.eclipse.core.resources 2 2 2023-10-12 10:28:13.870
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-10-12 10:28:13.870
+!MESSAGE The project description file (.project) for 'ejercicio14y15-DateLapse-Sistema' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2023-10-12 10:28:16.333
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/ejercicio14y15-DateLapse-Sistema". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2023-10-12 10:30:45.710
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default

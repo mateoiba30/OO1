@@ -9,6 +9,7 @@ public class UsuarioTest {
 	
 	private Propiedad propiedad1;
 	private Propiedad propiedad2;
+	private Cancelacion politicaCancelacion;
 	
 	private DateLapse bc;
 	private DateLapse de;
@@ -58,15 +59,21 @@ public class UsuarioTest {
 		eg= new DateLapse1(this.e, this.g);
 		ae= new DateLapse1(this.a, this.e);
 		
+		politicaCancelacion = new CancelacionFlexible();
 		precioPorNoche1=10;
-		propiedad1 = new Propiedad("propiedad1", "propiedad1", "123", precioPorNoche1);
+		propiedad1 = new Propiedad("propiedad1", "propiedad1", "123", precioPorNoche1, politicaCancelacion);
 				
 		precioPorNoche2=20;
-		propiedad2 = new Propiedad("propiedad2", "propiedad2", "321", precioPorNoche2);
+		propiedad2 = new Propiedad("propiedad2", "propiedad2", "321", precioPorNoche2, politicaCancelacion);
 		
 		propiedad1.agregarReserva(null, bc);
 		propiedad1.agregarReserva(null, de);
 		propiedad2.agregarReserva(null, fg);
+		
+		//en la vida real no se deberían superoner con las reservas y debería crear mas pariodos para los alquileres
+		propiedad1.agregarAlquiler(null, bc);
+		propiedad1.agregarAlquiler(null, de);
+		propiedad2.agregarAlquiler(null, fg);
 		
 		usuario = new Usuario("Mateo", "calle 2", 45377135);
 		usuario.agregrarPropiedad(propiedad1);
@@ -93,12 +100,12 @@ public class UsuarioTest {
 	
 	@Test
 	public void testCalcularIngresos() {
-		assertEquals(110, usuario.calcularIngresos(ai));
-		assertEquals(0, usuario.calcularIngresos(ef));
-		assertEquals(80, usuario.calcularIngresos(eg));	
-		assertEquals(80, usuario.calcularIngresos(fh));
-		assertEquals(30, usuario.calcularIngresos(ae));		
-		assertEquals(0, usuario.calcularIngresos(hi));
+		assertEquals(2*110, usuario.calcularIngresos(a,i));
+		assertEquals(2*0, usuario.calcularIngresos(e,f));
+		assertEquals(2*80, usuario.calcularIngresos(e,g));	
+		assertEquals(2*80, usuario.calcularIngresos(f,h));
+		assertEquals(2*30, usuario.calcularIngresos(a,e));		
+		assertEquals(2*0, usuario.calcularIngresos(h,i));
 	}
 	
 	@Test
@@ -114,7 +121,7 @@ public class UsuarioTest {
 	
 	@Test
 	public void testRegistrarPropiedad() {
-		assertEquals("111", usuario.registrarPropiedad("propiedad3", "muy fea", "111", 30).getDireccion());
+		assertEquals("111", usuario.registrarPropiedad("propiedad3", "muy fea", "111", 30, politicaCancelacion).getDireccion());
 		assertEquals(3, usuario.obtenerReservas().size());
 	}
 	

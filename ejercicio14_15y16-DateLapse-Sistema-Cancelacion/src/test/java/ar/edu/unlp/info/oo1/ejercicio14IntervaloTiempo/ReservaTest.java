@@ -9,7 +9,8 @@ public class ReservaTest {
 	private Reserva reserva;
 	private Propiedad propiedad;
 	private double precio;
-
+	private Cancelacion politicaCancelacion;
+	
 	private DateLapse periodo;
 	private LocalDate before2;
 	private LocalDate before;
@@ -29,7 +30,8 @@ public class ReservaTest {
 	@BeforeEach
 	public void setup() {
 		this.precio=10.2;
-		this.propiedad = new Propiedad("casa", "casa", "123", this.precio);
+		politicaCancelacion = new CancelacionFlexible();
+		this.propiedad = new Propiedad("casa", "casa", "123", this.precio, politicaCancelacion);
 		
 		this.before2=LocalDate.of(2000, 1, 1);
 		this.before= LocalDate.of(2000,  1, 3);

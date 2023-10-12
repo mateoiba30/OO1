@@ -1,4 +1,5 @@
 package ar.edu.unlp.info.oo1.ejercicio14IntervaloTiempo;
+import java.time.LocalDate;
 
 public class Reserva {
 	private Propiedad propiedad;//para distinguir entre reservas de diferentes propiedades cuando me la pasan por parámetro
@@ -29,5 +30,9 @@ public class Reserva {
 	
 	public double calcularPrecioReserva() {
 		return this.periodo.sizeInDays() * this.propiedad.getPrecioPorNoche();
+	}
+	
+	public double calcularReembolso(LocalDate fecha) {
+		return this.propiedad.getPoliticaCancelacion().calcularReembolso(this, fecha);
 	}
 }

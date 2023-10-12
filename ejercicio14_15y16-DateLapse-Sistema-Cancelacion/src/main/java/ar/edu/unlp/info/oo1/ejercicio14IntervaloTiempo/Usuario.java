@@ -1,6 +1,7 @@
 package ar.edu.unlp.info.oo1.ejercicio14IntervaloTiempo;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class Usuario {
@@ -24,7 +25,8 @@ public class Usuario {
 		return this.propiedades.stream().filter(p -> p.disponible(periodo)).collect(Collectors.toList());
 	}
 	
-	public double calcularIngresos(DateLapse periodo) {
+	public double calcularIngresos(LocalDate from, LocalDate to) {
+		DateLapse periodo = new DateLapse1(from, to);
 		return this.propiedades.stream().mapToDouble(p -> p.calcularIngresos(periodo)).sum();
 	}
 	
@@ -37,13 +39,17 @@ public class Usuario {
 		return this.propiedades;
 	}
 	
-	public Propiedad registrarPropiedad(String nombre, String descripcion, String direccion, double precioPorNoche) {
-		Propiedad propiedad = new Propiedad(nombre, descripcion, direccion, precioPorNoche );
+	public Propiedad registrarPropiedad(String nombre, String descripcion, String direccion, double precioPorNoche, Cancelacion politicaCancelacion) {
+		Propiedad propiedad = new Propiedad(nombre, descripcion, direccion, precioPorNoche, politicaCancelacion);
 		this.propiedades.add(propiedad);
 		return propiedad;
 	}
 	
 	public void agregrarPropiedad(Propiedad propiedad){
 		this.propiedades.add(propiedad);
+	}
+	
+	public long getDni() {
+		return this.dni;
 	}
 }

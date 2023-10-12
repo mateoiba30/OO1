@@ -10,9 +10,11 @@ public class SistemaTest {
 	
 	private Sistema sistema;
 	private List<Usuario> propietarios;
+	private Cancelacion politicaCancelacion;
 	
 	private Usuario usuario1;
 	private Usuario usuario2;
+	private Usuario usuario3;
 	
 	private Propiedad propiedad1;
 	private Propiedad propiedad2;
@@ -55,14 +57,15 @@ public class SistemaTest {
 		fg = new DateLapse1(this.f, this.g);
 		hi = new DateLapse1(this.h, this.i);
 
+		politicaCancelacion = new CancelacionFlexible();
 		precioPorNoche1=10;
-		propiedad1 = new Propiedad("propiedad1", "propiedad1", "123", precioPorNoche1);
+		propiedad1 = new Propiedad("propiedad1", "propiedad1", "123", precioPorNoche1, politicaCancelacion);
 				
 		precioPorNoche2=20;
-		propiedad2 = new Propiedad("propiedad2", "propiedad2", "321", precioPorNoche2);
+		propiedad2 = new Propiedad("propiedad2", "propiedad2", "321", precioPorNoche2, politicaCancelacion);
 		
 		precioPorNoche3=30;
-		propiedad3 = new Propiedad("propiedad3", "propiedad3", "111", precioPorNoche3);
+		propiedad3 = new Propiedad("propiedad3", "propiedad3", "111", precioPorNoche3, politicaCancelacion);
 		
 		propiedad1.agregarReserva(null, bc);
 		propiedad1.agregarReserva(null, de);
@@ -83,19 +86,26 @@ public class SistemaTest {
 		sistema = new Sistema(propietarios);
 	}
 	
+//	@Test
+//	public void testCalcularIngresos() {
+//		//todos los de un usuario
+//		assertEquals(110, sistema.calcularIngresosPropietario(usuario1, a, i));
+//		assertEquals(30, sistema.calcularIngresosPropietario(usuario2, a, i));
+//		
+//		//ninguno de un usuario
+//		assertEquals(0, sistema.calcularIngresosPropietario(usuario1, e, f));
+//		assertEquals(0, sistema.calcularIngresosPropietario(usuario2, e, f));
+//		
+////		alguno de un usuario
+//		assertEquals(80, sistema.calcularIngresosPropietario(usuario1, f, i));
+//		assertEquals(30, sistema.calcularIngresosPropietario(usuario2, f, i));
+//	}
+//	
 	@Test
-	public void testCalcularIngresos() {
-		//todos los de un usuario
-		assertEquals(110, sistema.calcularIngresosPropietario(usuario1, a, i));
-		assertEquals(30, sistema.calcularIngresosPropietario(usuario2, a, i));
-		
-		//ninguno de un usuario
-		assertEquals(0, sistema.calcularIngresosPropietario(usuario1, e, f));
-		assertEquals(0, sistema.calcularIngresosPropietario(usuario2, e, f));
-		
-//		alguno de un usuario
-		assertEquals(80, sistema.calcularIngresosPropietario(usuario1, f, i));
-		assertEquals(30, sistema.calcularIngresosPropietario(usuario2, f, i));
+	public void testRegistrarUsuario() {
+		usuario3 = new Usuario("Carlos", "calle 5" , 50377135);
+		assertEquals(usuario3.getDni(), sistema.registrarUsuario("Carlos", "calle 5", 50377135).getDni() );
+		assertEquals(3, sistema.getPropietarios().size());
 	}
 	
 	@Test

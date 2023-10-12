@@ -7,6 +7,11 @@ import java.time.LocalDate;
 public class PropiedadTest {
 	
 	private Propiedad propiedad;
+	private Cancelacion politicaCancelacion;
+	
+	private Reserva reserva1;
+	private Reserva reserva2;
+	private Reserva reserva3;
 	
 	private DateLapse ab;
 	private DateLapse bc;
@@ -36,7 +41,8 @@ public class PropiedadTest {
 	@BeforeEach
 	public void setup() {	
 		precioPorNoche=10;
-		propiedad = new Propiedad("propiedad", "propiedad", "123", precioPorNoche);
+		politicaCancelacion = new CancelacionFlexible();
+		propiedad = new Propiedad("propiedad", "propiedad", "123", precioPorNoche, politicaCancelacion);
 		
 		this.a= LocalDate.of(2000, 1, 1);
 		this.b= LocalDate.of(2000, 1, 2);
@@ -61,9 +67,13 @@ public class PropiedadTest {
 		ef = new DateLapse1(this.e, this.f);
 		eg= new DateLapse1(this.e, this.g);
 		
-		propiedad.agregarReserva(null, bc);
-		propiedad.agregarReserva(null, de);
-		propiedad.agregarReserva(null, fg);
+		reserva1 = new Reserva(propiedad, null, bc);
+		reserva2 = new Reserva(propiedad, null, de);
+		reserva3 = new Reserva(propiedad, null, fg);
+		
+		propiedad.agregarReserva(reserva1);
+		propiedad.agregarReserva(reserva2);
+		propiedad.agregarReserva(reserva3);
 	}
 	
 	@Test
@@ -96,6 +106,19 @@ public class PropiedadTest {
 	
 	@Test
 	public void testCalcularIngresos() {
+//		assertEquals(0, propiedad.calcularIngresos(ai));
+//		assertEquals(0, propiedad.calcularIngresos(fg));
+//		assertEquals(0, propiedad.calcularIngresos(fh));
+//		assertEquals(0, propiedad.calcularIngresos(eg));
+//		assertEquals(0, propiedad.calcularIngresos(ef));
+//		
+//		//las reservas pasan a ser alquileres, por lo cual dan plata
+//		propiedad.agregarAlquiler(reserva1);
+//		propiedad.agregarAlquiler(reserva2);
+//		propiedad.agregarAlquiler(reserva3);
+//		
+//		assertEquals(propiedad.getAlquileres().size(), 3);
+		
 		assertEquals(70, propiedad.calcularIngresos(ai));
 		assertEquals(40, propiedad.calcularIngresos(fg));
 		assertEquals(40, propiedad.calcularIngresos(fh));
