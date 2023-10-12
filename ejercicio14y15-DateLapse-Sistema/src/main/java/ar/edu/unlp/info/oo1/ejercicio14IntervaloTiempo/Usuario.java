@@ -6,21 +6,21 @@ import java.util.ArrayList;
 public class Usuario {
 	private String nombre;
 	private String direccion;
-	private int dni;
+	private long dni;
 	private List<Propiedad> propiedades;
 	
-	public Usuario(String nombre, String direccion, int dni) {
+	public Usuario(String nombre, String direccion, long dni) {
 		this.nombre=nombre;
 		this.direccion=direccion;
 		this.dni=dni;
 		this.propiedades=new ArrayList<>();
 	}
 	
-	public Propiedad BuscarPropiedad(Propiedad propiedad) {
-		return this.propiedades.stream().filter(p -> p.getNombre().equals(propiedad.getNombre())).findFirst().orElse(null);
+	public Propiedad buscarPropiedad(Propiedad propiedad) {
+		return this.propiedades.stream().filter(p -> p.getDireccion().equals(propiedad.getDireccion())).findFirst().orElse(null);
 	}
 	
-	public List<Propiedad> BuscarPropiedadesDisponibles(DateLapse periodo){
+	public List<Propiedad> buscarPropiedadesDisponibles(DateLapse periodo){
 		return this.propiedades.stream().filter(p -> p.disponible(periodo)).collect(Collectors.toList());
 	}
 	
@@ -41,5 +41,9 @@ public class Usuario {
 		Propiedad propiedad = new Propiedad(nombre, descripcion, direccion, precioPorNoche );
 		this.propiedades.add(propiedad);
 		return propiedad;
+	}
+	
+	public void agregrarPropiedad(Propiedad propiedad){
+		this.propiedades.add(propiedad);
 	}
 }

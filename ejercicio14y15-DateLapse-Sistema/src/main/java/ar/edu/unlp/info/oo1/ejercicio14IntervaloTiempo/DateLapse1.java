@@ -33,20 +33,23 @@ public class DateLapse1 implements DateLapse  {
 	}
 	
 	public boolean overlaps(DateLapse other) {//from o to dentro de date lapse = ver si un date lapse  se superpone con otro
-		return this.includesDate(other.getFrom()) || this.includesDate(other.getTo());
+//		return this.includesDate(other.getFrom()) || this.includesDate(other.getTo());
+		//esto está mal, porque puede ser que si se superpongan pero el más chicho no cubre el inicio o el fin del mas grande
+		return this.includesDate(other.getFrom()) || this.includesDate(other.getTo()) || other.includesDate(this.from) || other.includesDate(this.to);
+
 	}
 
-	public int daysOverLaps(DateLapse other) {
-		if (this.overlaps(other)==false)
+	public int daysOverLaps(DateLapse other) {//cantidad de días que se superponen
+		if (this.overlaps(other)==false)//me salva de devolver negativos
 			return 0;
-		else {//cuento desde el from mas reciente hasta el to mas viejo
+		
+		//cuento desde el from mas reciente hasta el to mas viejo
 			DateLapse1 aux = new DateLapse1(this.from, this.to);
 			if(other.getFrom().isAfter(this.from))
 				aux.setFrom(other.getFrom());
 			if(other.getTo().isBefore(this.to) )
 				aux.setTo(other.getTo());
 			return aux.sizeInDays();
-		}
 	}
 	
 	public void setFrom(LocalDate from) {

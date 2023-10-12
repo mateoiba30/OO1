@@ -1,14 +1,13 @@
 package ar.edu.unlp.info.oo1.ejercicio14IntervaloTiempo;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.ArrayList;
 import java.time.LocalDate;
 
 public class Sistema {
 	private List<Usuario> propietarios;
 	
-	public Sistema() {
-		this.propietarios = new ArrayList<>();
+	public Sistema(List<Usuario> propietarios) {
+		this.propietarios = propietarios;
 	}
 	
 	public double calcularIngresosPropietario(Usuario usuario, LocalDate from, LocalDate to) {
@@ -41,8 +40,12 @@ public class Sistema {
 		return this.propietarios.stream().flatMap(user -> user.getPropiedades().stream()).filter(pro -> pro.disponible(periodo)).collect(Collectors.toList());
 	}
 	
-	public void hacerReserva(Propiedad propiedad, DateLapse periodo, Usuario inquilino) {
+	public void agregarReserva(Propiedad propiedad, DateLapse periodo, Usuario inquilino) {
 //		Reserva reserva = new Reserva(propiedad, inquilino, periodo); //mejor esto hacerlo en usuario
 		propiedad.agregarReserva(inquilino, periodo);
+	}
+	
+	public List<Reserva> obtenerReservasUsuario (Usuario usuario) {
+		return usuario.obtenerReservas();
 	}
 }

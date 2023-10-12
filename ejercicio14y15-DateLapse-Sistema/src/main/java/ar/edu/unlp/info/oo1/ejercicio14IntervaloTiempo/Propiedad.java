@@ -40,11 +40,12 @@ public class Propiedad {
 	
 	public double calcularIngresos(DateLapse periodo){//en cada reserva debo
 //		return this.reservas.stream().mapToDouble(r -> r.daysOverlaps(periodo)*this.precioPorNoche).sum();
-		return this.reservas.stream().mapToDouble(r -> r.calcularPrecioReserva()).sum(); //mejor usando una funcion del sistema
+//	estas soluciones anteriores eran solo para evaluar todas las reservas	return this.reservas.stream().mapToDouble(r -> r.calcularPrecioReserva()).sum(); //mejor usando una funcion del sistema
+		return this.reservas.stream().mapToDouble(r -> r.getPeriodo().daysOverLaps(periodo) * this.precioPorNoche).sum();
 	}
 	
-	public String getNombre() {
-		return this.nombre;
+	public String getDireccion() {
+		return this.direccion;
 	}
 	
 	public void eliminarReserva(Reserva reserva){

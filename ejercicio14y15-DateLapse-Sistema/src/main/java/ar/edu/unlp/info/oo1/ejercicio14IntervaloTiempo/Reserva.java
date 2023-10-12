@@ -12,7 +12,7 @@ public class Reserva {
 	}
 	
 	public boolean disponible(DateLapse periodo) {
-		return ! this.periodo.overlaps(periodo); //si se superpone, entonces no esta disponible
+		return !(this.periodo.overlaps(periodo)); //si se superpone, entonces no esta disponible
 	}
 	
 	public int daysOverlaps(DateLapse periodo) {//devuleve al cantidad de días que se superponen

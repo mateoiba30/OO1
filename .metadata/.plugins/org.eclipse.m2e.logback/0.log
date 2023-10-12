@@ -5326,3 +5326,855 @@ org.eclipse.core.runtime.CoreException: Launch configuration PersonaTest (11) re
 2023-10-11 14:39:43,330 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-10-11 14:39:43,330 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
 2023-10-11 14:39:43,332 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 14:39:43,332 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:29:37,543 [Worker-21: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-11 19:39:47,822 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:39:47,823 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:39:47,827 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:39:47,828 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:41:45,976 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:41:45,977 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:41:45,980 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:41:45,980 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:43:05,323 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:43:05,324 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:43:05,327 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:43:05,327 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:43:49,668 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:43:49,669 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:43:49,672 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:43:49,673 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:44:14,697 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:44:14,698 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:44:14,700 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:44:14,701 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:44:24,713 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:44:24,713 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:44:24,715 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:44:24,716 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:45:42,703 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:45:42,704 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:45:42,707 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:45:42,707 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:46:43,336 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:46:43,337 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:46:43,340 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:46:43,341 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:46:59,979 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:46:59,979 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:46:59,982 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:46:59,982 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:50:04,502 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:50:04,502 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:50:04,505 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:50:04,505 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:50:33,320 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:50:33,321 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:50:33,323 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:50:33,324 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:51:15,718 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:51:15,719 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:51:15,721 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:51:15,722 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:51:35,134 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:51:35,135 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:51:35,137 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:51:35,138 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:52:28,088 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:52:28,088 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:52:28,091 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:52:28,092 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:52:47,309 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:52:47,310 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:52:47,312 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:52:47,312 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:53:32,082 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:53:32,083 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:53:32,085 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:53:32,085 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:54:38,600 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:54:38,600 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:54:38,602 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:54:38,603 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:54:57,827 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:54:57,827 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:54:57,829 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:54:57,830 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:57:15,933 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:57:15,933 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:57:15,935 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:57:15,936 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:58:19,602 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:58:19,602 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:58:19,604 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:58:19,605 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:58:36,494 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:58:36,495 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:58:36,497 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:58:36,498 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:58:39,818 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:58:39,819 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:58:39,821 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:58:39,821 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:59:52,968 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:59:52,968 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:59:52,970 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:59:52,971 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 19:59:58,756 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:59:58,757 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 19:59:58,759 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 19:59:58,759 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:01:23,676 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:01:23,676 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:01:23,678 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:01:23,679 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:02:39,632 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:02:39,633 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:02:39,635 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:02:39,636 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:03:34,796 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:03:34,796 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:03:34,798 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:03:34,799 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:04:01,374 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:04:01,374 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:04:01,376 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:04:01,377 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:04:23,253 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:04:23,253 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:04:23,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:04:23,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:04:58,823 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:04:58,823 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:04:58,826 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:04:58,826 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:06:06,510 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:06:06,511 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:06:06,513 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:06:06,513 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:08:46,177 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:08:46,178 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:08:46,180 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:08:46,180 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:09:44,596 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:09:44,596 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:09:44,598 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:09:44,598 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:10:21,539 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:10:21,539 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:10:21,541 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:10:21,542 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:11:06,278 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:11:06,279 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:11:06,280 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:11:06,281 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:12:36,373 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:12:36,373 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:12:36,377 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:12:36,377 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:13:10,213 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:10,213 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:13:10,215 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:10,216 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:13:13,252 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:13,253 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:13:13,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:13,255 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:13:27,873 [Worker-31: Launching ReservaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:27,873 [Worker-31: Launching ReservaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:13:27,876 [Worker-31: Launching ReservaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:27,877 [Worker-31: Launching ReservaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:13:39,726 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:39,726 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:13:39,728 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:39,729 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:13:57,589 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:57,590 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:13:57,592 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:13:57,592 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:15:14,670 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:15:14,671 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:15:14,673 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:15:14,673 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:17:49,985 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:17:49,985 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:17:49,987 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:17:49,988 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:18:24,257 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:18:24,258 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:18:24,260 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:18:24,260 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:20:47,921 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:20:47,922 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:20:47,924 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:20:47,924 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:20:53,007 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:20:53,007 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:20:53,009 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:20:53,009 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:20:57,504 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:20:57,505 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:20:57,507 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:20:57,508 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:21:01,034 [Worker-36: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:21:01,034 [Worker-36: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:21:01,036 [Worker-36: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:21:01,037 [Worker-36: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:25:07,267 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:25:07,267 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:25:07,269 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:25:07,270 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:26:39,033 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:26:39,033 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:26:39,035 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:26:39,035 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:26:59,178 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:26:59,178 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:26:59,180 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:26:59,181 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:27:58,792 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:27:58,792 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:27:58,794 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:27:58,795 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:28:02,326 [Worker-39: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:28:02,327 [Worker-39: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:28:02,329 [Worker-39: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:28:02,329 [Worker-39: Launching DataLapse1Test (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:28:32,582 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:28:32,583 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:28:32,585 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:28:32,585 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:29:37,419 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:29:37,420 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:29:37,422 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:29:37,422 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:29:45,698 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:29:45,698 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:29:45,700 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:29:45,701 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:30:35,230 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:30:35,231 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:30:35,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:30:35,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:31:14,032 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:31:14,032 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:31:14,034 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:31:14,035 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:32:07,081 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:32:07,081 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:32:07,083 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:32:07,083 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:32:32,770 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:32:32,771 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:32:32,773 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:32:32,773 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:33:42,682 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:33:42,682 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:33:42,685 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:33:42,685 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:34:18,201 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:34:18,201 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:34:18,203 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:34:18,203 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:38:43,015 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:38:43,016 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:38:43,018 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:38:43,018 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:39:02,768 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:39:02,768 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:39:02,772 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:39:02,772 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:39:31,294 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:39:31,294 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:39:31,296 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:39:31,296 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:40:07,315 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:40:07,316 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:40:07,318 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:40:07,319 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:43:27,765 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:43:27,766 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:43:27,768 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:43:27,769 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:45:15,277 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:45:15,277 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:45:15,279 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:45:15,279 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:48:50,377 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:48:50,378 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:48:50,379 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:48:50,380 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:51:07,678 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:51:07,678 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:51:07,680 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:51:07,680 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:51:18,113 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:51:18,113 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:51:18,115 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:51:18,115 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:51:22,647 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:51:22,647 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:51:22,649 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:51:22,649 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:52:34,232 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:52:34,233 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:52:34,234 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:52:34,235 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:55:05,128 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:55:05,129 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:55:05,131 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:55:05,131 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:56:53,861 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:56:53,862 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:56:53,863 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:56:53,864 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:57:38,453 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:57:38,453 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:57:38,456 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:57:38,456 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:58:55,130 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:58:55,131 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:58:55,133 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:58:55,133 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 20:59:41,539 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:59:41,540 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 20:59:41,542 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 20:59:41,542 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:00:39,565 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:00:39,566 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:00:39,567 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:00:39,568 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:01:13,597 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:01:13,597 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:01:13,599 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:01:13,599 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:01:45,835 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:01:45,835 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:01:45,837 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:01:45,838 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:04:17,613 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:04:17,613 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:04:17,615 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:04:17,615 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:04:27,410 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:04:27,410 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:04:27,412 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:04:27,413 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:07:48,248 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:07:48,249 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:07:48,251 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:07:48,251 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:10:39,534 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:10:39,535 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:10:39,537 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:10:39,537 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:11:00,691 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:11:00,692 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:11:00,694 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:11:00,694 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:14:00,260 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:00,260 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:14:00,262 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:00,262 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:14:04,870 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:04,871 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:14:04,872 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:04,873 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:14:06,651 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:06,651 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:14:06,653 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:06,653 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:14:09,831 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:09,831 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:14:09,833 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:09,833 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:14:24,541 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:24,541 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:14:24,543 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:24,543 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:14:42,196 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:42,196 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:14:42,198 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:14:42,198 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:16:25,029 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:16:25,030 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:16:25,031 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:16:25,032 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:16:47,471 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:16:47,471 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:16:47,473 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:16:47,473 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:17:17,165 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:17:17,165 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:17:17,167 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:17:17,168 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:18:32,414 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:18:32,414 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:18:32,416 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:18:32,416 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:18:41,332 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:18:41,333 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:18:41,335 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:18:41,335 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:23:52,016 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:23:52,017 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:23:52,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:23:52,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:23:57,780 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:23:57,780 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:23:57,782 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:23:57,782 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:25:43,667 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:25:43,668 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:25:43,669 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:25:43,670 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:26:32,238 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:26:32,238 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:26:32,240 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:26:32,241 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:27:11,719 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:27:11,720 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:27:11,721 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:27:11,722 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:27:18,464 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:27:18,464 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:27:18,466 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:27:18,467 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:28:13,952 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:13,952 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:28:13,954 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:13,954 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:28:19,175 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:19,176 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:28:19,177 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:19,178 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:28:28,379 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:28,379 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:28:28,381 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:28,381 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:28:46,739 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:46,740 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:28:46,741 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:28:46,742 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:30:36,560 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:30:36,561 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:30:36,562 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:30:36,563 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:30:49,902 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:30:49,902 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:30:49,904 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:30:49,904 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:32:40,558 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:32:40,558 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:32:40,560 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:32:40,561 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:32:49,106 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:32:49,107 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:32:49,109 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:32:49,109 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:33:22,288 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:33:22,288 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:33:22,290 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:33:22,290 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:34:25,079 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:34:25,080 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:34:25,082 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:34:25,082 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:35:48,287 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:35:48,287 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:35:48,289 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:35:48,289 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:36:45,283 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:36:45,283 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:36:45,285 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:36:45,285 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:36:58,488 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:36:58,488 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:36:58,490 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:36:58,491 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:38:57,840 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:38:57,841 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:38:57,843 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:38:57,843 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:39:21,747 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:21,747 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:39:21,749 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:21,749 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:39:37,200 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:37,200 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:39:37,202 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:37,202 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:39:46,690 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:46,690 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:39:46,692 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:46,692 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:39:58,443 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:58,444 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:39:58,446 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:39:58,446 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:41:47,445 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:41:47,445 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:41:47,447 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:41:47,447 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:43:03,129 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:43:03,130 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:43:03,132 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:43:03,132 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:43:44,706 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:43:44,706 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:43:44,708 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:43:44,708 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:45:46,174 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:45:46,174 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:45:46,177 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:45:46,177 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:46:38,530 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:46:38,530 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:46:38,532 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:46:38,533 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:47:24,534 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:47:24,535 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:47:24,537 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:47:24,537 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:47:33,089 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:47:33,089 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:47:33,092 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:47:33,093 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:47:42,401 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:47:42,402 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:47:42,404 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:47:42,404 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:48:01,003 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:48:01,003 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:48:01,005 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:48:01,005 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:48:32,945 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:48:32,946 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:48:32,948 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:48:32,948 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:48:51,239 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:48:51,239 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:48:51,240 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:48:51,240 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:49:01,671 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:49:01,671 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:49:01,673 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:49:01,673 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:49:18,177 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:49:18,178 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:49:18,180 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:49:18,180 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:50:24,005 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:50:24,005 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:50:24,007 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:50:24,008 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-11 21:50:32,758 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:50:32,759 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-11 21:50:32,760 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-11 21:50:32,761 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 08:48:01,202 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:48:01,202 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 08:48:01,204 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:48:01,204 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 08:49:17,520 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:49:17,522 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 08:49:17,525 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:49:17,525 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 08:50:12,154 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:50:12,154 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 08:50:12,156 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:50:12,156 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 08:52:07,304 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:52:07,304 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 08:52:07,306 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 08:52:07,306 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:07:15,186 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:07:15,186 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:07:15,188 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:07:15,188 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:08:18,725 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:08:18,725 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:08:18,727 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:08:18,727 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:08:50,994 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:08:50,994 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:08:50,995 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:08:50,996 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:09:19,352 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:09:19,352 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:09:19,354 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:09:19,354 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:10:30,369 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:10:30,370 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:10:30,371 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:10:30,372 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:10:44,019 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:10:44,019 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:10:44,021 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:10:44,021 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:10:53,534 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:10:53,534 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:10:53,536 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:10:53,536 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:11:17,895 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:11:17,895 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:11:17,897 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:11:17,897 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:11:27,286 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:11:27,286 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:11:27,288 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:11:27,288 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:12:29,291 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:12:29,291 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:12:29,292 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:12:29,292 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:12:32,927 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:12:32,928 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:12:32,929 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:12:32,929 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:12:41,616 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:12:41,616 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:12:41,617 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:12:41,618 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:16:01,372 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:16:01,373 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:16:01,374 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:16:01,375 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:17:38,972 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:17:38,973 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:17:38,974 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:17:38,975 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:18:01,289 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:18:01,290 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:18:01,291 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:18:01,291 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:20:34,937 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:20:34,938 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:20:34,939 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:20:34,939 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:20:54,027 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:20:54,028 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:20:54,029 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:20:54,029 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:20:59,903 [Worker-70: Launching PropiedadTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:20:59,903 [Worker-70: Launching PropiedadTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:20:59,905 [Worker-70: Launching PropiedadTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:20:59,905 [Worker-70: Launching PropiedadTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:22:41,299 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:22:41,300 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:22:41,301 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:22:41,301 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:23:07,868 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:23:07,869 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:23:07,871 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:23:07,871 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:23:28,601 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:23:28,602 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:23:28,604 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:23:28,604 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:23:40,787 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:23:40,788 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:23:40,789 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:23:40,789 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:25:01,785 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:25:01,785 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:25:01,786 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:25:01,786 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:27:29,443 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:27:29,443 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:27:29,444 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:27:29,445 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:28:44,666 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:28:44,667 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:28:44,668 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:28:44,669 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:29:35,312 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:29:35,312 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:29:35,314 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:29:35,315 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:30:00,530 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:30:00,530 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:30:00,532 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:30:00,532 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:32:30,339 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:32:30,339 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:32:30,340 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:32:30,341 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:32:50,591 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:32:50,592 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:32:50,593 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:32:50,593 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:33:11,091 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:33:11,092 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:33:11,093 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:33:11,093 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:33:54,013 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:33:54,014 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:33:54,015 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:33:54,016 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:38:10,166 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:38:10,166 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:38:10,167 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:38:10,168 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:38:38,723 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:38:38,723 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:38:38,725 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:38:38,725 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:39:09,487 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:39:09,488 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:39:09,489 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:39:09,489 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:39:27,482 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:39:27,483 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:39:27,484 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:39:27,485 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:40:07,004 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:40:07,005 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:40:07,006 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:40:07,006 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:41:14,815 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:41:14,815 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:41:14,817 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:41:14,817 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:42:23,330 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:42:23,331 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:42:23,332 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:42:23,333 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:43:24,598 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:43:24,599 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:43:24,600 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:43:24,601 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:43:36,272 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:43:36,273 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:43:36,274 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:43:36,275 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:45:50,299 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:45:50,299 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:45:50,300 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:45:50,301 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:45:57,646 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:45:57,646 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:45:57,648 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:45:57,648 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:46:04,994 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:46:04,994 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:46:04,996 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:46:04,996 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:46:11,629 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:46:11,629 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:46:11,631 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:46:11,631 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:47:02,622 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:47:02,622 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:47:02,623 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:47:02,624 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:47:55,663 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:47:55,664 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:47:55,665 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:47:55,665 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:49:01,994 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:49:01,995 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:49:01,996 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:49:01,997 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:50:08,035 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:50:08,036 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:50:08,037 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:50:08,037 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:50:33,547 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:50:33,548 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:50:33,549 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:50:33,549 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:51:18,993 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:51:18,993 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:51:18,995 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:51:18,995 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:51:49,642 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:51:49,642 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:51:49,644 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:51:49,644 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:53:27,949 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:53:27,950 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:53:27,951 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:53:27,952 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:53:46,625 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:53:46,625 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:53:46,627 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:53:46,627 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:54:35,059 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:54:35,059 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:54:35,060 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:54:35,061 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:55:13,640 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:55:13,641 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:55:13,642 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:55:13,642 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 09:55:46,903 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:55:46,903 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 09:55:46,904 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 09:55:46,905 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:17:35,050 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:17:35,051 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:17:35,052 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:17:35,053 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:17:58,873 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:17:58,874 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:17:58,875 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:17:58,875 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:19:25,712 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:19:25,712 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:19:25,713 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:19:25,714 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:19:52,240 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:19:52,240 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:19:52,242 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:19:52,243 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:20:30,855 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:20:30,855 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:20:30,859 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:20:30,859 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:21:37,901 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:21:37,901 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:21:37,903 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:21:37,903 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:22:06,325 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:06,326 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:22:06,327 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:06,327 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:22:17,197 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:17,198 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:22:17,199 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:17,199 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:22:21,194 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:21,194 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:22:21,196 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:21,196 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:22:32,306 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:32,307 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:22:32,308 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:22:32,308 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:23:13,886 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:23:13,886 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:23:13,888 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:23:13,888 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:23:41,016 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:23:41,016 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:23:41,018 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:23:41,019 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:24:07,935 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:24:07,936 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:24:07,937 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:24:07,937 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:24:25,909 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:24:25,910 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:24:25,911 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:24:25,911 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:24:59,026 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:24:59,026 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:24:59,027 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:24:59,027 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:25:32,280 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:25:32,280 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
+2023-10-12 10:25:32,282 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:25:32,282 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\test\resources
+2023-10-12 10:25:39,508 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-12 10:25:39,509 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14y15-DateLapse-Sistema\src\main\resources
