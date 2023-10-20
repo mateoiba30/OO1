@@ -6649,3 +6649,979 @@ org.eclipse.core.runtime.CoreException: Launch configuration PersonaTest (11) re
 2023-10-12 15:24:25,014 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\main\resources
 2023-10-12 15:24:25,016 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-10-12 15:24:25,016 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\test\resources
+2023-10-13 20:37:24,430 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-19 19:49:17,104 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-19 19:49:48,610 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo1:objetos-uno:jar:1.0.0 is missing, no dependency information available
+2023-10-19 19:50:06,758 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [271])
+2023-10-19 19:50:06,766 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-10-19 19:50:06,767 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-10-19 19:50:06,767 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-10-19 19:50:06,768 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-10-19 19:50:06,768 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-10-19 19:50:06,769 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-10-19 19:50:06,769 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-10-19 19:50:06,770 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-10-19 19:50:06,770 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-10-19 19:50:06,771 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-10-19 19:50:06,771 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-10-19 19:50:06,772 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-10-19 19:50:06,772 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-10-19 19:50:06,772 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-10-19 19:50:06,773 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-10-19 19:50:06,773 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-10-19 19:50:06,773 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-10-19 19:50:06,774 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-10-19 19:50:06,774 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-10-19 19:50:06,775 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-10-19 19:50:06,775 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-10-19 19:50:06,775 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-10-19 19:50:06,776 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-10-19 19:50:06,776 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-10-19 19:50:06,776 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-10-19 19:50:06,777 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-10-19 19:50:06,777 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-10-19 19:50:06,777 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-10-19 19:50:06,778 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-10-19 19:50:06,778 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-10-19 19:50:06,779 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-10-19 19:50:06,779 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-10-19 19:50:06,780 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-10-19 19:50:06,780 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-10-19 19:50:06,781 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-10-19 19:50:06,781 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-10-19 19:50:06,782 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-10-19 19:50:06,784 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-10-19 19:50:06,787 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-10-19 19:50:06,787 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [439])
+2023-10-19 19:50:06,788 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-10-19 19:50:06,788 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-10-19 19:50:06,791 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-10-19 19:50:06,791 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-10-19 19:50:06,793 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-10-19 19:50:06,793 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-10-19 19:50:06,795 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-10-19 19:50:06,795 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-10-19 19:50:06,796 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Mateo\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-10-19 19:50:06,801 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mateo\AppData\Local\Temp\m2e-archetypeGenerator336089311279770192":
+2023-10-19 19:50:06,807 [Worker-3: Launching mavenrun-42190f9c-2a7d-4de4-822f-8b4ced70922d] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=ar.edu.unlp.info.oo1 -DarchetypeArtifactId=objetos-uno -DarchetypeVersion=1.0.0 -DgroupId=ar.edu.unlp.info.oo1 -DartifactId=ejercicioAdicional-PreguntasyRespuestas -Dversion=0.0.1-SNAPSHOT -Dpackage=ar.edu.unlp.info.oo1.ejercicioAdicional_PreguntasyRespuestas -DoutputDirectory="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1" -Dstyle.color=always -U archetype:generate
+2023-10-19 19:50:16,566 [Worker-13: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\pom.xml
+2023-10-19 19:50:17,622 [Worker-13: Creating objetos-uno] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicioAdicional-PreguntasyRespuestas:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\pom.xml.
+2023-10-19 19:50:18,285 [Worker-13: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicioAdicional-PreguntasyRespuestas/src/main/java
+2023-10-19 19:50:18,288 [Worker-13: Creating objetos-uno] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicioAdicional-PreguntasyRespuestas/src/test/java
+2023-10-19 19:50:18,288 [Worker-13: Creating objetos-uno] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-11', falling back to workspace default
+2023-10-19 19:50:18,383 [Worker-13: Creating objetos-uno] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-10-19 19:50:19,296 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:19,297 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\src\main\resources
+2023-10-19 19:50:19,303 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:19,303 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\cookbookV2\src\test\resources
+2023-10-19 19:50:19,919 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:19,920 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej11Inversiones\src\main\resources
+2023-10-19 19:50:19,923 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:19,924 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej11Inversiones\src\test\resources
+2023-10-19 19:50:20,141 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,142 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej5genealogia\src\main\resources
+2023-10-19 19:50:20,145 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,146 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej5genealogia\src\test\resources
+2023-10-19 19:50:20,355 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,355 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej6RedAlumbrado\src\main\resources
+2023-10-19 19:50:20,359 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,359 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej6RedAlumbrado\src\test\resources
+2023-10-19 19:50:20,533 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,533 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej7MethodLookUp\src\main\resources
+2023-10-19 19:50:20,536 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,536 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej7MethodLookUp\src\test\resources
+2023-10-19 19:50:20,784 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,784 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio10JobScheduler\src\main\resources
+2023-10-19 19:50:20,788 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,788 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio10JobScheduler\src\test\resources
+2023-10-19 19:50:20,998 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:20,999 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio12Solidos\src\main\resources
+2023-10-19 19:50:21,002 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,002 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio12Solidos\src\test\resources
+2023-10-19 19:50:21,228 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,229 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio13Correo\src\main\resources
+2023-10-19 19:50:21,232 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,232 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio13Correo\src\test\resources
+2023-10-19 19:50:21,560 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,560 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\main\resources
+2023-10-19 19:50:21,562 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,563 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\test\resources
+2023-10-19 19:50:21,786 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,786 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\src\main\resources
+2023-10-19 19:50:21,789 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:21,789 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio1WallPost\src\test\resources
+2023-10-19 19:50:22,081 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,081 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\src\main\resources
+2023-10-19 19:50:22,084 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,084 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio2Balanzaa\src\test\resources
+2023-10-19 19:50:22,311 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,311 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\main\resources
+2023-10-19 19:50:22,313 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,314 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3BisBalanzaMejorada\src\test\resources
+2023-10-19 19:50:22,469 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,470 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\main\resources
+2023-10-19 19:50:22,472 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,472 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio3Presupuesto\src\test\resources
+2023-10-19 19:50:22,661 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,662 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio8\src\main\resources
+2023-10-19 19:50:22,664 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,664 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio8\src\test\resources
+2023-10-19 19:50:22,825 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,825 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio9Ganchos\src\main\resources
+2023-10-19 19:50:22,828 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,828 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio9Ganchos\src\test\resources
+2023-10-19 19:50:22,904 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,905 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:50:22,907 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:22,908 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:50:23,088 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:23,088 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\main\resources
+2023-10-19 19:50:23,091 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:23,091 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\figurasycuerpos\src\test\resources
+2023-10-19 19:50:36,783 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:36,784 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:50:36,788 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:36,788 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:50:40,325 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:40,325 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:50:40,329 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:50:40,329 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:52:29,880 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:52:29,881 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:52:29,887 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:52:29,888 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:53:00,847 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo1:ejercicioAdicional-PreguntasyRespuestas:0.0.1-SNAPSHOT @ C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\pom.xml.
+2023-10-19 19:53:00,874 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier  to /cookbookV2/target/classes
+2023-10-19 19:53:00,954 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:53:00,955 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:53:00,957 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:53:00,958 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:53:08,458 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:53:08,458 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:53:08,461 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:53:08,461 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:53:22,507 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:53:22,508 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:53:22,511 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:53:22,511 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:54:28,479 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:54:28,480 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:54:28,482 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:54:28,483 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:55:01,640 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:55:01,640 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:55:01,642 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:55:01,643 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:55:16,062 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:55:16,062 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:55:16,065 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:55:16,065 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:55:45,607 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:55:45,608 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:55:45,611 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:55:45,611 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:56:13,129 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:56:13,129 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:56:13,131 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:56:13,131 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:56:29,957 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:56:29,957 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:56:29,959 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:56:29,960 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:56:50,513 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:56:50,513 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:56:50,515 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:56:50,516 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 19:58:10,093 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:58:10,094 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 19:58:10,097 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 19:58:10,097 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:08:27,988 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:08:27,989 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:08:27,991 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:08:27,991 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:10:52,657 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:10:52,657 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:10:52,660 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:10:52,660 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:11:51,217 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:11:51,217 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:11:51,220 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:11:51,220 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:12:04,222 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:12:04,223 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:12:04,225 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:12:04,225 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:13:45,838 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:13:45,839 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:13:45,841 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:13:45,841 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:13:59,626 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:13:59,626 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:13:59,628 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:13:59,629 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:15:43,682 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:15:43,682 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:15:43,684 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:15:43,685 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:16:31,479 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:16:31,479 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:16:31,482 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:16:31,483 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:17:01,617 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:17:01,617 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:17:01,619 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:17:01,619 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:19:52,844 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:19:52,845 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:19:52,847 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:19:52,847 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:23:21,120 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:23:21,121 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:23:21,123 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:23:21,123 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:23:33,680 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:23:33,681 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:23:33,683 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:23:33,683 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:24:06,766 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:24:06,766 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:24:06,768 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:24:06,769 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:24:58,998 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:24:58,999 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:24:59,001 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:24:59,001 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:25:45,770 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:25:45,770 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:25:45,774 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:25:45,774 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:27:49,394 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:27:49,395 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:27:49,397 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:27:49,398 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:28:10,684 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:28:10,685 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:28:10,687 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:28:10,687 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:28:28,033 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:28:28,034 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:28:28,036 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:28:28,037 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:28:33,105 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:28:33,105 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:28:33,107 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:28:33,107 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:31:06,047 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:31:06,048 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:31:06,050 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:31:06,050 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:31:48,136 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:31:48,137 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:31:48,139 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:31:48,139 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:32:18,226 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:32:18,227 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:32:18,229 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:32:18,229 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:32:43,975 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:32:43,976 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:32:43,978 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:32:43,978 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:35:20,278 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:35:20,278 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:35:20,282 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:35:20,282 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:35:40,749 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:35:40,749 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:35:40,751 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:35:40,752 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:36:38,983 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:36:38,984 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:36:38,986 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:36:38,986 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:36:43,842 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:36:43,843 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:36:43,845 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:36:43,845 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:41:10,692 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:41:10,692 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:41:10,694 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:41:10,694 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:41:12,503 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:41:12,504 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:41:12,505 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:41:12,506 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:41:42,457 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:41:42,457 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:41:42,459 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:41:42,459 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:42:25,920 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:42:25,920 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:42:25,922 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:42:25,922 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:43:10,631 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:10,631 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:43:10,633 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:10,634 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:43:23,146 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:23,147 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:43:23,150 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:23,151 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:43:26,357 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:26,357 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:43:26,360 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:26,360 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:43:42,041 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:42,042 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:43:42,043 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:43:42,043 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:45:17,922 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:45:17,923 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:45:17,926 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:45:17,926 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:45:32,617 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:45:32,617 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:45:32,620 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:45:32,620 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:45:45,780 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:45:45,780 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:45:45,782 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:45:45,782 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:48:40,594 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:48:40,594 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:48:40,596 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:48:40,596 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:48:50,831 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:48:50,832 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:48:50,835 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:48:50,835 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:50:23,321 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:50:23,322 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:50:23,323 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:50:23,324 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:50:32,313 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:50:32,314 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:50:32,316 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:50:32,316 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:51:29,757 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:51:29,757 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:51:29,759 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:51:29,759 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:51:52,047 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:51:52,048 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:51:52,050 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:51:52,050 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:52:55,310 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:52:55,310 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:52:55,312 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:52:55,312 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:53:11,599 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:53:11,600 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:53:11,602 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:53:11,602 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:54:04,706 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:54:04,707 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:54:04,709 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:54:04,709 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:55:14,572 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:55:14,573 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:55:14,575 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:55:14,575 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 20:57:11,655 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:57:11,656 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 20:57:11,658 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 20:57:11,658 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 21:24:13,493 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:24:13,494 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 21:24:13,496 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:24:13,496 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 21:24:27,074 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:24:27,074 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 21:24:27,076 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:24:27,076 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 21:24:52,276 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:24:52,277 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 21:24:52,279 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:24:52,279 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-19 21:25:27,561 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:25:27,562 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-19 21:25:27,564 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-19 21:25:27,564 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:05:02,800 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:05:02,802 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:05:02,808 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:05:02,809 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:06:23,711 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:06:23,712 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:06:23,718 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:06:23,718 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:06:46,257 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:06:46,258 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:06:46,263 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:06:46,264 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:06:58,736 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:06:58,737 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:06:58,743 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:06:58,744 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:07:09,599 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:07:09,600 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:07:09,605 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:07:09,605 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:10:36,122 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:10:36,124 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:10:36,127 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:10:36,128 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:11:57,222 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:11:57,223 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:11:57,226 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:11:57,226 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:12:36,623 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:12:36,624 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:12:36,628 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:12:36,628 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:12:42,448 [Worker-40: Launching RespuestaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:12:42,449 [Worker-40: Launching RespuestaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:12:42,454 [Worker-40: Launching RespuestaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:12:42,454 [Worker-40: Launching RespuestaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:12:42,617 [Worker-40: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:12:42,730 [Worker-40: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:13:21,475 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:13:21,476 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:13:21,480 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:13:21,480 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:13:36,296 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:13:36,297 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:13:36,300 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:13:36,301 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:13:38,920 [Worker-33: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:13:39,001 [Worker-33: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:14:31,122 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:14:31,123 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:14:31,127 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:14:31,127 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:14:57,231 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:14:57,232 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:14:57,236 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:14:57,236 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:15:37,835 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:15:37,836 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:15:37,839 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:15:37,840 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:15:40,215 [Worker-39: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:15:40,297 [Worker-39: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:18:00,616 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:18:00,617 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:18:00,620 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:18:00,621 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:18:04,184 [Worker-36: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:18:04,271 [Worker-36: Launching RespuestaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:18:42,579 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:18:42,580 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:18:42,584 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:18:42,585 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:19:34,308 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:19:34,309 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:19:34,315 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:19:34,315 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:20:23,959 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:20:23,960 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:20:23,964 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:20:23,965 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:20:46,455 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:20:46,456 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:20:46,460 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:20:46,461 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:21:37,015 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:21:37,016 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:21:37,019 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:21:37,020 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:22:05,401 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:22:05,402 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:22:05,406 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:22:05,406 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:23:14,281 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:23:14,282 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:23:14,286 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:23:14,286 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:23:21,219 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:23:21,219 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:23:21,223 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:23:21,223 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:23:44,834 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:23:44,835 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:23:44,839 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:23:44,839 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:25:47,597 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:25:47,598 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:25:47,601 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:25:47,602 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:25:58,646 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:25:58,647 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:25:58,650 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:25:58,650 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:26:11,711 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:26:11,712 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:26:11,716 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:26:11,716 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:41:31,052 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:41:31,053 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:41:31,058 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:41:31,058 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:41:57,912 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:41:57,913 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:41:57,918 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:41:57,919 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:42:07,253 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:42:07,254 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:42:07,257 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:42:07,258 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:43:41,677 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:43:41,678 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:43:41,697 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:43:41,697 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:45:21,473 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:45:21,474 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:45:21,478 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:45:21,478 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:45:39,292 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:45:39,293 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:45:39,296 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:45:39,296 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:45:42,683 [Worker-33: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:45:42,763 [Worker-33: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:47:27,297 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:47:27,298 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:47:27,302 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:47:27,303 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:49:27,538 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:49:27,539 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:49:27,544 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:49:27,545 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:49:44,485 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:49:44,486 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:49:44,490 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:49:44,490 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:50:16,611 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:50:16,612 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:50:16,617 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:50:16,618 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:50:21,508 [Worker-43: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:50:21,587 [Worker-43: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:51:21,414 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:51:21,415 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:51:21,418 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:51:21,419 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:51:27,438 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:51:27,439 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:51:27,443 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:51:27,443 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:51:27,552 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:51:27,625 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:52:29,068 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:52:29,069 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:52:29,072 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:52:29,073 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:52:33,809 [Worker-40: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:52:33,887 [Worker-40: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:52:44,599 [Worker-40: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:52:44,676 [Worker-40: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:52:55,021 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:52:55,022 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:52:55,026 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:52:55,026 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:52:58,515 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:52:58,516 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:52:58,521 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:52:58,521 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:54:00,473 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:54:00,474 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:54:00,479 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:54:00,479 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:54:18,439 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:54:18,440 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:54:18,445 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:54:18,446 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:54:36,410 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:54:36,412 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:54:36,415 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:54:36,415 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:55:53,314 [Worker-33: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:55:53,390 [Worker-33: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:56:56,023 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:56:56,024 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:56:56,027 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:56:56,028 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:57:10,319 [Worker-43: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:57:10,394 [Worker-43: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:57:31,064 [Worker-45: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:57:31,144 [Worker-45: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 08:58:36,473 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:58:36,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:58:36,478 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:58:36,479 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 08:58:44,858 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:58:44,859 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 08:58:44,863 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 08:58:44,864 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:02:24,069 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:02:24,069 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:02:24,073 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:02:24,073 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:03:13,889 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:03:13,890 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:03:13,894 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:03:13,894 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:03:38,476 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:03:38,476 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:03:38,480 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:03:38,481 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:04:26,147 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:04:26,147 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:04:26,151 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:04:26,152 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:04:41,005 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:04:41,006 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:04:41,010 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:04:41,010 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:05:05,834 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:05:05,835 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:05:05,839 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:05:05,839 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:05:19,322 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:05:19,323 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:05:19,327 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:05:19,328 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:05:29,504 [Worker-50: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:05:29,583 [Worker-50: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:05:39,485 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:05:39,486 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:05:39,490 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:05:39,490 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:05:42,732 [Worker-49: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:05:42,806 [Worker-49: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:06:12,287 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:06:12,288 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:06:12,292 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:06:12,292 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:06:14,695 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:06:14,772 [Worker-42: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:08:02,141 [Worker-45: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:08:02,220 [Worker-45: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:08:23,987 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:08:23,988 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:08:23,991 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:08:23,992 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:08:25,886 [Worker-49: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:08:25,961 [Worker-49: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:08:42,147 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:08:42,148 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:08:42,151 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:08:42,152 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:08:44,725 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:08:44,726 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:08:44,729 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:08:44,730 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:09:12,285 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:09:12,285 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:09:12,289 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:09:12,289 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:09:14,232 [Worker-51: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:09:14,307 [Worker-51: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:10:06,895 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:10:06,896 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:10:06,899 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:10:06,900 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:10:09,433 [Worker-51: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:10:09,510 [Worker-51: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:11:08,141 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:11:08,142 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:11:08,146 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:11:08,146 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:13:38,871 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:13:38,872 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:13:38,875 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:13:38,875 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:14:28,558 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:14:28,559 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:14:28,562 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:14:28,562 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:15:05,059 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:15:05,060 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:15:05,063 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:15:05,064 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:15:08,068 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:15:08,069 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:15:08,073 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:15:08,073 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:15:11,079 [Worker-52: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:15:11,156 [Worker-52: Launching PreguntaTecnicaTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:15:52,453 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:15:52,454 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:15:52,458 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:15:52,458 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:16:07,568 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:16:07,569 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:16:07,573 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:16:07,573 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:16:24,541 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:16:24,542 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:16:24,547 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:16:24,547 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:16:35,858 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:16:35,859 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:16:35,863 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:16:35,863 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:17:08,204 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:17:08,205 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:17:08,209 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:17:08,209 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:17:12,863 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:17:12,864 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:17:12,867 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:17:12,868 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:17:35,722 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:17:35,723 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:17:35,726 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:17:35,727 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:17:43,658 [Worker-53: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:17:43,731 [Worker-53: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:18:21,758 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:18:21,759 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:18:21,763 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:18:21,764 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:18:32,606 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:18:32,607 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:18:32,610 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:18:32,611 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:18:57,118 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:18:57,119 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:18:57,122 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:18:57,123 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:20:22,599 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:20:22,600 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:20:22,606 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:20:22,606 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:21:01,490 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:21:01,491 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:21:01,495 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:21:01,495 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:21:29,429 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:21:29,429 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:21:29,433 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:21:29,433 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:21:37,139 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:21:37,140 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:21:37,145 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:21:37,145 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:22:02,718 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:22:02,719 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:22:02,722 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:22:02,722 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:22:39,449 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:22:39,451 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:22:39,455 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:22:39,456 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:23:03,471 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:23:03,472 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:23:03,475 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:23:03,476 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:26:15,981 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:26:15,981 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:26:15,984 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:26:15,985 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:26:33,019 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:26:33,019 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:26:33,022 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:26:33,023 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:28:47,707 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:28:47,708 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:28:47,710 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:28:47,711 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:29:01,781 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:29:01,782 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:29:01,785 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:29:01,785 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:29:09,457 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:29:09,457 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:29:09,460 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:29:09,461 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:29:52,114 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:29:52,115 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:29:52,117 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:29:52,118 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:30:24,855 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:30:24,856 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:30:24,859 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:30:24,859 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:30:29,252 [Worker-49: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:30:29,325 [Worker-49: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:32:22,166 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:32:22,167 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:32:22,170 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:32:22,171 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:32:40,454 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:32:40,455 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:32:40,458 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:32:40,458 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:35:44,263 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:35:44,264 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:35:44,268 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:35:44,268 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:35:46,694 [Worker-55: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:35:46,766 [Worker-55: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:37:11,984 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:37:11,985 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:37:11,987 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:37:11,988 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:37:15,097 [Worker-49: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:37:15,170 [Worker-49: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:48:59,583 [Worker-57: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:48:59,584 [Worker-57: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:48:59,587 [Worker-57: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:48:59,588 [Worker-57: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:49:04,274 [Worker-57: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:49:04,344 [Worker-57: Launching PreguntaGeneralTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:50:27,853 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:50:27,853 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:50:27,856 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:50:27,857 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:52:09,287 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:52:09,288 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:52:09,291 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:52:09,292 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:52:33,568 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:52:33,569 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:52:33,573 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:52:33,573 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:52:39,086 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:52:39,112 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:52:39,115 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:52:39,117 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:53:24,253 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:53:24,254 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:53:24,258 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:53:24,258 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:53:27,197 [Worker-61: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:53:27,269 [Worker-61: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 09:54:18,042 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:54:18,043 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:54:18,046 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:54:18,047 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:54:31,464 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:54:31,465 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:54:31,467 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:54:31,468 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:55:12,587 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:55:12,588 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:55:12,590 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:55:12,591 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:56:48,407 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:56:48,408 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:56:48,414 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:56:48,415 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:59:12,479 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:59:12,480 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:59:12,483 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:59:12,484 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 09:59:58,836 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:59:58,837 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 09:59:58,840 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 09:59:58,840 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:00:27,053 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:00:27,054 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:00:27,057 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:00:27,058 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:01:17,887 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:01:17,888 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:01:17,891 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:01:17,891 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:02:03,692 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:02:03,693 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:02:03,697 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:02:03,697 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:02:33,643 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:02:33,643 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:02:33,646 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:02:33,646 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:02:35,972 [Worker-59: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:02:36,046 [Worker-59: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:04:36,620 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:04:36,621 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:04:36,624 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:04:36,624 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:04:52,557 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:04:52,558 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:04:52,562 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:04:52,562 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:05:08,782 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:05:08,783 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:05:08,786 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:05:08,786 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:05:11,131 [Worker-54: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:05:11,204 [Worker-54: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:05:28,756 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:05:28,757 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:05:28,760 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:05:28,760 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:05:46,801 [Worker-59: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:05:46,875 [Worker-59: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:08:34,197 [Worker-57: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:08:34,272 [Worker-57: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:14:01,130 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:14:01,131 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:14:01,133 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:14:01,134 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:17:02,751 [Worker-66: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:17:02,825 [Worker-66: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:18:34,741 [Worker-68: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:18:34,816 [Worker-68: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:19:18,407 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:19:18,408 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:19:18,412 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:19:18,412 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:19:20,389 [Worker-64: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:19:20,470 [Worker-64: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:21:46,663 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:21:46,664 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\main\resources
+2023-10-20 10:21:46,666 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:21:46,667 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\test\resources
+2023-10-20 10:24:08,963 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:24:08,963 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\main\resources
+2023-10-20 10:24:08,966 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:24:08,967 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\test\resources
+2023-10-20 10:24:20,475 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:24:20,476 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\main\resources
+2023-10-20 10:24:20,479 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:24:20,479 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\test\resources
+2023-10-20 10:25:05,557 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:25:05,558 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:25:05,560 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:25:05,561 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:26:20,299 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:26:20,300 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:26:20,302 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:26:20,302 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:26:54,822 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:26:54,824 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:26:54,827 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:26:54,828 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:27:07,864 [Worker-69: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:27:07,937 [Worker-69: Launching SistemaTest (2)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes
+2023-10-20 10:28:35,042 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:28:35,043 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:28:35,046 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:28:35,046 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:28:45,245 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:28:45,246 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:28:45,248 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:28:45,249 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:29:33,656 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:29:33,657 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:29:33,660 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:29:33,660 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:30:35,536 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:30:35,536 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\main\resources
+2023-10-20 10:30:35,539 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-20 10:30:35,539 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas\src\test\resources
+2023-10-20 10:30:38,741 [Worker-74: Launching UsuarioTest (3)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cookbookV2: ar.edu.unlp.info:cookbookV2:0.0.1-SNAPSHOT with classifier null to /cookbookV2/target/classes

@@ -38,8 +38,9 @@ public class Sistema {
 //	
 	public List<Propiedad> buscarDisponibles(LocalDate inicio, LocalDate fin){
 		DateLapse periodo = new DateLapse1(inicio, fin);
-		return this.propietarios.stream().flatMap(user -> user.getPropiedades().stream()).filter(pro -> pro.disponible(periodo)).collect(Collectors.toList());
-	}
+//		return this.propietarios.stream().flatMap(user -> user.getPropiedades().stream()).filter(pro -> pro.disponible(periodo)).collect(Collectors.toList());
+		return this.propietarios.stream().flatMap(user -> user.buscarPropiedadesDisponibles(periodo).stream()).filter(pro -> pro.disponible(periodo)).collect(Collectors.toList());
+	}//LO MEJOR ES QUE EL USUARIO BUSQUE LA LISTA DE PROPIEDADES DISPONIBLES
 	
 //	public void agregarReserva(Propiedad propiedad, DateLapse periodo, Usuario inquilino) {
 ////		Reserva reserva = new Reserva(propiedad, inquilino, periodo); //mejor esto hacerlo en usuario
