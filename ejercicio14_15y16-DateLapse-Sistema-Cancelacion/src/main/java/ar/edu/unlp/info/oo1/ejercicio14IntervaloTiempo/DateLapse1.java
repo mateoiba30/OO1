@@ -26,7 +26,7 @@ public class DateLapse1 implements DateLapse  {
 
 	public boolean includesDate(LocalDate other) {
 		
-		if (( other.isAfter(this.from) && other.isBefore(this.to) ) || other==this.from || other==this.to )
+		if (( other.isAfter(this.from) && other.isBefore(this.to) ) || other.equals(this.from) || other.equals(this.to) )
 			return true;
 		else
 			return false;

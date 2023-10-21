@@ -8657,3 +8657,12 @@ org.eclipse.core.runtime.CoreException: Launch configuration PersonaTest (11) re
 2023-10-21 19:49:45,105 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio17-facturacionLlamadas\src\main\resources
 2023-10-21 19:49:45,106 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-10-21 19:49:45,106 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio17-facturacionLlamadas\src\test\resources
+2023-10-21 19:50:48,921 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-21 19:50:48,922 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio17-facturacionLlamadas\src\main\resources
+2023-10-21 19:50:48,923 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-21 19:50:48,923 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio17-facturacionLlamadas\src\test\resources
+2023-10-21 19:52:58,768 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-21 19:53:34,612 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-21 19:53:34,614 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\main\resources
+2023-10-21 19:53:34,618 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-21 19:53:34,619 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14_15y16-DateLapse-Sistema-Cancelacion\src\test\resources

@@ -25,6 +25,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicioAdicional-PreguntasyRespuestas"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio14IntervaloTiempo"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ej11Inversiones"/>
 			<item value="C:\Users\Mateo\Documents\Auni\2023\cuatri 2\OO1\ejercicio10JobScheduler\src\main\java\ar\edu\unlp\info\oo1\ejercicio10JobScheduler"/>
@@ -58,6 +59,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ejercicio17_facturacionLlamadas"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicioAdicional_PreguntasyRespuestas"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio14IntervaloTiempo"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio15SistemaOOBnB"/>
@@ -69,6 +71,7 @@
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ejercicio17-facturacionLlamadas"/>
 			<item value="ejercicioAdicional-PreguntasyRespuestas"/>
 			<item value="ejercicio14IntervaloTiempo"/>
 			<item value="ejercicio15SistemaOOBnB"/>
