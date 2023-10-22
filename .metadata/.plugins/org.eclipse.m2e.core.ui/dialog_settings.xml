@@ -59,6 +59,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ejercicio18_liquidacionHaberes"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio17_facturacionLlamadas"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicioAdicional_PreguntasyRespuestas"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio14IntervaloTiempo"/>
@@ -71,6 +72,7 @@
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ejercicio18-liquidacionHaberes"/>
 			<item value="ejercicio17-facturacionLlamadas"/>
 			<item value="ejercicioAdicional-PreguntasyRespuestas"/>
 			<item value="ejercicio14IntervaloTiempo"/>

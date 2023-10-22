@@ -1,5 +1,6 @@
 package ar.edu.unlp.info.oo1.ejercicio18_liquidacionHaberes;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -17,15 +18,19 @@ public class Sistema {
 		this.empleados.add(empleado);
 	}
 	
-	public Empleado buscarEmpleado(long cuit) {
-		return this.empleados.stream().filter(e -> e.getCuit()==cuit).findFirst().orElse(null);
+//	public Empleado buscarEmpleado(long cuit) {
+////		return this.empleados.stream().filter(e -> e.getCuit()==cuit).findFirst().orElse(null);
+//	}
+	
+	public Optional<Empleado> buscarEmpleado(long cuit){
+		return this.empleados.stream().filter(e -> e.getCuit()==cuit).findFirst();
 	}
 	
 	public void darDeBajaEmpleado(Empleado empleado) {
 		this.empleados.remove(empleado);
 	}
 	
-	public void cargarContratoPorHoras(LocalDate fechaInicio, double valorPorHora, int horasAlMes, LocalDate fechaFin, Empleado empleado) {
+	public void cargarContratoPorHoras(LocalDate fechaInicio, LocalDate fechaFin, double valorPorHora, int horasAlMes, Empleado empleado) {
 		empleado.cargarContratoPorHora(fechaInicio, fechaFin, valorPorHora, horasAlMes);
 	}
 	
